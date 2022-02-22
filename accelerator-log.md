@@ -4,7 +4,7 @@
 ```json
 {
   "projectName" : "tanzu-java-web-app",
-  "repositoryPrefix" : "harbor.rito.tkg-vsp-lab.hyrulelab.com/tap/supply-chain"
+  "repositoryPrefix" : "harbor.rito.tkg-vsp-lab.hyrulelab.com/tap/tanzu-java-web-app"
 }
 ```
 ## Log
